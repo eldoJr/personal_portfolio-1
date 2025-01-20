@@ -4,11 +4,8 @@ A modern, fully responsive portfolio website built using HTML, CSS, and JavaScri
 ## Features
 <ul>
     <li>Responsive Design: Adapts seamlessly to different screen sizes, from desktops to mobile devices.</li>
-
     <li>Scroll To Element: Smooth scrolling functionality to navigate between sections with ease.</li>
-
     <li>Modern Layout: A clean, professional layout using CSS Grid and Flexbox.</li>
-
     <li>Animations: Subtle animations and transitions for an engaging user experience.</li>
 </ul>
 
